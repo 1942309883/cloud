@@ -1,4 +1,4 @@
 server: 
-  port: 6690
+  port: 9960
 
 foo: foo client git!!!
